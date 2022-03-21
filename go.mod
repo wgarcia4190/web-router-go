@@ -1,6 +1,5 @@
 module github.com/wgarcia4190/web-router-go
 
-
 go 1.16
 
 require (

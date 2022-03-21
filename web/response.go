@@ -3,8 +3,9 @@ package web
 import (
 	"context"
 	"encoding/json"
-	"github.com/pkg/errors"
 	"net/http"
+
+	"github.com/pkg/errors"
 )
 
 // Respond marshals a value to JSON and sends it to the client.
